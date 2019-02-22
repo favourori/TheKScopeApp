@@ -83,7 +83,6 @@ class _EditProfileState extends State<EditProfile> {
 
       body: Theme(
           data: ThemeData(
-              primaryColor: ColorUtils.primary,
               inputDecorationTheme: new InputDecorationTheme(
                   labelStyle: new TextStyle(color: Colors.white))),
           child: Center(
