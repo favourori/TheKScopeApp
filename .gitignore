@@ -5,6 +5,5 @@
 .pub/
 
 build/
-ios/Runner.xcodeproj
-ios/Runner
+
 .flutter-plugins
