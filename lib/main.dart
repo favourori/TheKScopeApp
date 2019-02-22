@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:kscope/auth/baseAuth.dart';
 import 'package:kscope/auth/login.dart';
 import 'package:kscope/home/home.dart';
+import 'package:flutter/services.dart';
 
 void main() => runApp(new MyApp());
 
