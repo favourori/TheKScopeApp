@@ -43,6 +43,7 @@ class ProfileState extends State<Profile> {
           height: 300.0,
           fit: BoxFit.cover,
         ),
+        color: Colors.green,
       );
     }
 
@@ -79,6 +80,7 @@ class ProfileState extends State<Profile> {
         // screen title
       ),
       body: Container(
+          color: ColorUtils.primary,
           child: MediaQuery.removePadding(
               removeTop: true,
               context: context,
